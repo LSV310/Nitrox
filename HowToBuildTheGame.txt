@@ -1,0 +1,3 @@
+Ouvrir C:\Anicet\Jeux\Nitrox\Nitrox.BuildTool\bin\generated_files\game.props --> Mettre l'emplacement de Subnautica
+Lancer C:\Anicet\Jeux\Nitrox\Nitrox.sln --> Executer Avec BuildTools --> Générer la solution
+
